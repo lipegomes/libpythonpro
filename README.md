@@ -17,6 +17,6 @@ Este projeto é licenciado sobre a licença MIT - veja [LICENSE](https://github.
 
 ## Acknowledgments
 
-- ** Renzo Nuccitelli ** [LinkedIn](https://www.linkedin.com/in/renzonuccitelli/)
+- Renzo Nuccitelli [LinkedIn](https://www.linkedin.com/in/renzonuccitelli/)
 
 - Este módulo foi construído durante o Bootcamp DevPro do [PythonPro](https://www.python.pro.br/).
