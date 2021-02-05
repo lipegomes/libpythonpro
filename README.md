@@ -13,7 +13,7 @@ Neste curso é ensinado como contribuir com projetos de código aberto.
 
 ## Licença
 
-Este projeto é licenciado sobre a licença MIT - veja [LICENSE](https://github.com/lipegomes/libpythonpro/blob/main/LICENSE) para mais informações.
+Este projeto é licenciado sobre a licença GNU Affero General Public License v3.0 - veja [LICENSE](https://github.com/lipegomes/libpythonpro/blob/main/LICENSE) para mais informações.
 
 ## Acknowledgments
 
