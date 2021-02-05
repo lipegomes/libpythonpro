@@ -27,6 +27,7 @@ flake8
 2. [Virtualenv](https://pypi.org/project/virtualenv/)
 3. [Pip](https://pypi.org/project/pip/)
 4. [Travis CLI](https://www.travis-ci.com/)
+5. [PyUp](https://pyup.io/)
 
 ## Licença
 
