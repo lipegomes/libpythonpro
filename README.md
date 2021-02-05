@@ -1,6 +1,9 @@
 # libpythonpro
 
 [![Build Status](https://travis-ci.com/lipegomes/libpythonpro.svg?branch=main)](https://travis-ci.com/lipegomes/libpythonpro)
+[![Updates](https://pyup.io/repos/github/lipegomes/libpythonpro/shield.svg)](https://pyup.io/repos/github/lipegomes/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/lipegomes/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/lipegomes/libpythonpro/)
+
 
 Módulo para exemplificar construção de projetos Python no curso PyTools durante o Bootcamp DevPro.
 
@@ -20,9 +23,10 @@ pip install -r requirements-dev.txt
 flake8
 ```
 ## Tópicos a serem abordados:
-1. Git
-2. Virtualenv
-3. Pip
+1. [Git](https://git-scm.com/)
+2. [Virtualenv](https://pypi.org/project/virtualenv/)
+3. [Pip](https://pypi.org/project/pip/)
+4. [Travis CLI](https://www.travis-ci.com/)
 
 ## Licença
 
