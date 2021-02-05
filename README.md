@@ -5,7 +5,17 @@ Neste curso é ensinado como contribuir com projetos de código aberto.
 
 ## Requerimentos:
 - Ter a versão 3 do python instalada no notebook ou pc.
-
+- Criar o ambiente virtual na pasta do projeto e instalar os requirements:
+```console
+pip install virtualenv
+virtualenv venv
+source .venv/bin/activate
+pip install -r requirements-dev.txt
+```
+## Verificar qualidade de código:
+```console
+flake8
+```
 ## Tópicos a serem abordados:
 1. Git
 2. Virtualenv
