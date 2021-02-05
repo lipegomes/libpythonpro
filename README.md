@@ -1,4 +1,7 @@
 # libpythonpro
+
+[![Build Status](https://travis-ci.com/lipegomes/libpythonpro.svg?branch=main)](https://travis-ci.com/lipegomes/libpythonpro)
+
 Módulo para exemplificar construção de projetos Python no curso PyTools durante o Bootcamp DevPro.
 
 Neste curso é ensinado como contribuir com projetos de código aberto.
