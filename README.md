@@ -14,7 +14,7 @@ Neste curso é ensinado como contribuir com projetos de código aberto.
 - Criar o ambiente virtual na pasta do projeto e instalar os requirements:
 ```console
 pip install virtualenv
-virtualenv venv
+virtualenv .venv
 source .venv/bin/activate
 pip install -r requirements-dev.txt
 ```
