@@ -94,7 +94,7 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro-fg"
+PACKAGE = "libpythonpro-fgomes"
 NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools durante o Bootcamp DevPro."
 AUTHOR = "Filipe Gomes"
