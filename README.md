@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.com/lipegomes/libpythonpro.svg?branch=main)](https://travis-ci.com/lipegomes/libpythonpro)
 [![Updates](https://pyup.io/repos/github/lipegomes/libpythonpro/shield.svg)](https://pyup.io/repos/github/lipegomes/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/lipegomes/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/lipegomes/libpythonpro/)
+[![codecov](https://codecov.io/gh/lipegomes/libpythonpro/branch/main/graph/badge.svg?token=Y14GLJUDG2)](https://codecov.io/gh/lipegomes/libpythonpro)
 
 
 Módulo para exemplificar construção de projetos Python no curso PyTools durante o Bootcamp DevPro.
@@ -29,6 +30,8 @@ flake8
 4. [Travis CLI](https://www.travis-ci.com/)
 5. [PyUp](https://pyup.io/)
 6. [PyTest](https://docs.pytest.org/en/stable/)
+7. [PyTest-cov](https://pytest-cov.readthedocs.io/en/latest/readme.html#installation)
+8. [Codecov](https://codecov.io/)
 
 ## Licença
 
