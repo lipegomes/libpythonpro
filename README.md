@@ -28,6 +28,7 @@ flake8
 3. [Pip](https://pypi.org/project/pip/)
 4. [Travis CLI](https://www.travis-ci.com/)
 5. [PyUp](https://pyup.io/)
+6. [PyTest](https://docs.pytest.org/en/stable/)
 
 ## Licença
 
