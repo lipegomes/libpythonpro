@@ -8,6 +8,7 @@ pluggy==0.12
 py==1.10.0
 attrs==19.2.0
 pyparsing==2.0.2
+pytest-mock==3.5.1
 
 # Coverage
 coverage==5.4
