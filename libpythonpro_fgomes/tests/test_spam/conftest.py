@@ -3,7 +3,6 @@ import pytest
 from libpythonpro_fgomes.spam.db import Conexao
 
 
-# Fixture
 @pytest.fixture(scope='session')
 def conexao():
     # Setup
