@@ -30,9 +30,9 @@ flake8
 4. [Travis CLI](https://www.travis-ci.com/)
 5. [PyUp](https://pyup.io/)
 6. [PyTest](https://docs.pytest.org/en/stable/)
-7. [PyTest-cov](https://pytest-cov.readthedocs.io/en/latest/readme.html#installation)
+7. [PyTest-Cov](https://pytest-cov.readthedocs.io/en/latest/readme.html#installation)
 8. [Codecov](https://codecov.io/)
-9. [Mock](https://docs.python.org/3/library/unittest.mock.html)
+9. [Pytest-Mock](https://github.com/pytest-dev/pytest-mock/)
 
 ## Licença
 
