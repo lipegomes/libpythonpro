@@ -32,6 +32,7 @@ flake8
 6. [PyTest](https://docs.pytest.org/en/stable/)
 7. [PyTest-cov](https://pytest-cov.readthedocs.io/en/latest/readme.html#installation)
 8. [Codecov](https://codecov.io/)
+9. [Mock](https://docs.python.org/3/library/unittest.mock.html)
 
 ## Licença
 
